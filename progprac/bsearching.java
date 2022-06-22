@@ -1,6 +1,6 @@
 package progprac;
 import java.util.*;
-class bsearching
+public class bsearching
 {
     public static void main(String [] args)
     {
