@@ -25,7 +25,7 @@
  }
  class staticfinal
  {
-     public static void main(String [] args)
+     public static void main(String [] args)                 //static means no need to make the object to run this method
      {
          thing.discription = "i am a thing";
          thing.showInfo();
