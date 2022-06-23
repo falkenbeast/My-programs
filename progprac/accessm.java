@@ -30,6 +30,7 @@ public class accessm
         int q = 20;
         protected int r = 30;
         public int s = 40;
+       
         
         public static void main(String []args)
         {
@@ -39,5 +40,6 @@ public class accessm
                 System.out.println(c.b);
                 System.out.println(c.c);
                 System.out.println(c.d);
+                
         }
 }
