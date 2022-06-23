@@ -1,5 +1,4 @@
-
-package progprac;
+package programs.progprac;
 public class arraystring {
     public static void main(String [] args)
     {

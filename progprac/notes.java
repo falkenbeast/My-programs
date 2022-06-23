@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 public class notes {
     public static void main(String [] args)
     {

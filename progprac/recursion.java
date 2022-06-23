@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class recursion                                       // when a method call itself it is called recursion
 /*{
     static int fact(int n)

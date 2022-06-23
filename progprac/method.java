@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 /*                             // for non variable arguments 
 class method 
 {

@@ -1,5 +1,5 @@
 // Java program for implementation of Insertion Sort
-package progprac;
+package programs.progprac;
 import java.util.*;
 class isorting {
         /*Function to sort array using insertion sort*/

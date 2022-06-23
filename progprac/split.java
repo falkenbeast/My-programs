@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class test 
 {
         public static void main(String []args)

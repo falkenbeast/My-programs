@@ -1,5 +1,5 @@
 
-package progprac;
+package programs.progprac;
 class bsorting
 /*{
     public static void main(String []args)

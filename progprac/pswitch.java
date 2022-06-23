@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 import java.util.*;
 public class pswitch {
         public static void main(String []args)

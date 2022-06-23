@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 import java.util.*;
 public class doubleBsorting {
 // using bubble sort to sort 2D array

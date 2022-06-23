@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 
 class Aa{
     public int a;

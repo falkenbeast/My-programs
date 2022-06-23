@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class array 
 {
     public static void main(String []args)

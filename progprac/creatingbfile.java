@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 import java.io.*;
 class creatingbfile
 {

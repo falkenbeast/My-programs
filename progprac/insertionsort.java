@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class insertionsort {
     /*Function to sort array using insertion sort*/
     void sort(int arr[])

@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class base1
 {
     int ab = 10;

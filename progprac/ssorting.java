@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class ssorting 
 {
     public static void main(String [] args)

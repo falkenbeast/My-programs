@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 interface info{
         public void showinfo();
     }

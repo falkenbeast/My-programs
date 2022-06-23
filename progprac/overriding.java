@@ -1,5 +1,5 @@
 
-package progprac;
+package programs.progprac;
 class A{
     public int a;
     public int harry(){

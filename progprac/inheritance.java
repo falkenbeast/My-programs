@@ -1,4 +1,4 @@
-package progprac;
+package programs.progprac;
 class machinee
 {
     int x;
