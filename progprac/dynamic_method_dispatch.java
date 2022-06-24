@@ -31,7 +31,9 @@ public class dynamic_method_dispatch
         obj.on();  // method of 2nd method refered 
         smartphone obj1 = new smartphone();
         obj1.greet1();
+        obj1.on();
         phone obj2 = new phone();
+        obj2.greet();
         obj2.on();
 
     }

@@ -1,4 +1,4 @@
-package programs.progprac;
+package programs.progprac;           // inheritence use extends 
 class machinee
 {
     int x;
