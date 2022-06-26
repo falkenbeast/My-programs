@@ -2,10 +2,19 @@ package programs.progprac;
 
 interface bysicle
 {
-        void brakes(int de);
-        void speedup(int in);
+        
+        public void brakes(int de);
+        public void speedup(int in);
 }
-public class iinterface {
+class c1 implements bysicle{               //if i put implements then it is forced to have bysicle
+        public void brakes(int x){
+           System.out.println(x);
+        }
+        public void speedup(int y){
+                System.out.println(y);
+        }
+}
+public class interfaces2 {
         static int speed = 10;
         static void brakes(int de )
         {
@@ -18,6 +27,9 @@ public class iinterface {
                 System.out.println(speed);
         }
         public static void main(String[] args) {
+             c1 c =new c1();
+             c.brakes(10);
+             c.speedup(100);
              brakes(4);
              speedup(4);
         }
