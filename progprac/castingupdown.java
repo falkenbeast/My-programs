@@ -15,7 +15,7 @@ class camera extends machine
         }
 }
 
-public class updowncasting {
+public class castingupdown {
         public static void main(String[] args) {
                 
         
