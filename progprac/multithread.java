@@ -1,6 +1,6 @@
 package programs.progprac;
 
-class mythread extends Thread
+class mythread extends Thread       //by extending thread
 {
         public void run()
         {
